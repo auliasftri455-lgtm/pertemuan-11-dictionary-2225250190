@@ -2,7 +2,7 @@
 
 Nama: Aulia Safitri  
 NIM: 2225250190  
-Kelas: [Isi kelas kamu]
+Kelas: 3B
 
 ## Tujuan
 
